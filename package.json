@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/atlantida-dev/atlantida-smart-contracts#readme",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.6.0"
+    "@openzeppelin/contracts": "^4.6.0",
+    "@openzeppelin/contracts-upgradeable": "^4.6.0"
   }
 }
