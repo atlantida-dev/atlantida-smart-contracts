@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/atlantida-dev/atlantida-smart-contracts/issues"
   },
-  "homepage": "https://github.com/atlantida-dev/atlantida-smart-contracts#readme"
+  "homepage": "https://github.com/atlantida-dev/atlantida-smart-contracts#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0"
+  }
 }
