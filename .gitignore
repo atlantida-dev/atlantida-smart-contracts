@@ -1,0 +1,14 @@
+.idea
+.secret
+
+# dependencies
+node_modules
+
+# testing
+coverage
+
+# truffle
+build
+
+# environment variables
+.env

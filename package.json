@@ -1,0 +1,22 @@
+{
+  "name": "atlantida-smart-contracts",
+  "version": "0.0.1",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atlantida-dev/atlantida-smart-contracts.git"
+  },
+  "author": "atlantida-dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atlantida-dev/atlantida-smart-contracts/issues"
+  },
+  "homepage": "https://github.com/atlantida-dev/atlantida-smart-contracts#readme"
+}
